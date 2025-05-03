@@ -1,0 +1,482 @@
+Login to GitHub and create a repository FormAdo
+
+AHISHEK@DESKTOP-4QKH86R MINGW64 /d/dotnet/FormAdo
+$ git remote add origin https://github.com/Abhishek-Amar-Singh/FormAdo.git
+fatal: not a git repository (or any of the parent directories): .git
+
+AHISHEK@DESKTOP-4QKH86R MINGW64 /d/dotnet/FormAdo
+$ git init
+Initialized empty Git repository in D:/dotnet/FormAdo/.git/
+
+AHISHEK@DESKTOP-4QKH86R MINGW64 /d/dotnet/FormAdo (master)
+$ git remote add origin https://github.com/Abhishek-Amar-Singh/FormAdo.git
+
+AHISHEK@DESKTOP-4QKH86R MINGW64 /d/dotnet/FormAdo (master)
+$ git add .
+warning: in the working copy of 'Form.Web.Api/obj/Debug/net8.0/EndpointInfo/Form.Web.Api.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/jquery-validation/dist/jquery.validate.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/jquery/dist/jquery.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Form.Web.App/wwwroot/lib/jquery/dist/jquery.min.js', LF will be replaced by CRLF the next time Git touches it
+
+AHISHEK@DESKTOP-4QKH86R MINGW64 /d/dotnet/FormAdo (master)
+$ git add .
+
+AHISHEK@DESKTOP-4QKH86R MINGW64 /d/dotnet/FormAdo (master)
+$ git commit -m "ado.net, mvc, web api, dotnet core 8"
+[master (root-commit) 555c4d4] ado.net, mvc, web api, dotnet core 8
+ 411 files changed, 106538 insertions(+)
+ create mode 100644 Form.Web.Api/Controllers/StudentsController.cs
+ create mode 100644 Form.Web.Api/Form.Web.Api.csproj
+ create mode 100644 Form.Web.Api/Form.Web.Api.csproj.user
+ create mode 100644 Form.Web.Api/Form.Web.Api.http
+ create mode 100644 Form.Web.Api/Program.cs
+ create mode 100644 Form.Web.Api/Properties/launchSettings.json
+ create mode 100644 Form.Web.Api/Services/Students/IStudentService.cs
+ create mode 100644 Form.Web.Api/Services/Students/StudentService.cs
+ create mode 100644 Form.Web.Api/appsettings.Development.json
+ create mode 100644 Form.Web.Api/appsettings.json
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/ApiEndpoints.json
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/EndpointInfo/Form.Web.Api.OpenApiFiles.cache
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/EndpointInfo/Form.Web.Api.json
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.Api.AssemblyInfo.cs
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.Api.AssemblyInfoInputs.cache
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.Api.GeneratedMSBuildEditorConfig.editorconfig
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.Api.GlobalUsings.g.cs
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.Api.MvcApplicationPartsAssemblyInfo.cache
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.Api.MvcApplicationPartsAssemblyInfo.cs
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.Api.assets.cache
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.Api.csproj.AssemblyReference.cache
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.Api.csproj.BuildWithSkipAnalyzers
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.Api.csproj.CoreCompileInputs.cache
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.Api.csproj.FileListAbsolute.txt
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.Api.dll
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.Api.genruntimeconfig.cache
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.Api.pdb
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/Form.Web.EE05F7DC.Up2Date
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/apphost.exe
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/ref/Form.Web.Api.dll
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/refint/Form.Web.Api.dll
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/staticwebassets.build.json
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/staticwebassets.references.upToDateCheck.txt
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/staticwebassets.removed.txt
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.Form.Web.Api.props
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Form.Web.Api.props
+ create mode 100644 Form.Web.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Form.Web.Api.props
+ create mode 100644 Form.Web.Api/obj/Form.Web.Api.csproj.nuget.dgspec.json
+ create mode 100644 Form.Web.Api/obj/Form.Web.Api.csproj.nuget.g.props
+ create mode 100644 Form.Web.Api/obj/Form.Web.Api.csproj.nuget.g.targets
+ create mode 100644 Form.Web.Api/obj/project.assets.json
+ create mode 100644 Form.Web.Api/obj/project.nuget.cache
+ create mode 100644 Form.Web.App/.vs/Form.Web.App/FileContentIndex/551cb2e0-6ca9-448a-9af9-f4a9a1c4fbe2.vsidx
+ create mode 100644 Form.Web.App/.vs/Form.Web.App/FileContentIndex/68e63b7d-12de-47f8-b083-d9fd3caaa78b.vsidx
+ create mode 100644 Form.Web.App/.vs/Form.Web.App/FileContentIndex/836bc314-e22c-43ca-b245-021750267b53.vsidx
+ create mode 100644 Form.Web.App/.vs/Form.Web.App/FileContentIndex/d5a40352-2299-42af-878f-d0ea9419ec3e.vsidx
+ create mode 100644 Form.Web.App/.vs/Form.Web.App/FileContentIndex/efb77037-0fd6-43dc-8ce4-5259b5ecb554.vsidx
+ create mode 100644 Form.Web.App/.vs/Form.Web.App/v17/.futdcache.v2
+ create mode 100644 Form.Web.App/.vs/Form.Web.App/v17/.suo
+ create mode 100644 Form.Web.App/.vs/Form.Web.App/v17/DocumentLayout.backup.json
+ create mode 100644 Form.Web.App/.vs/Form.Web.App/v17/DocumentLayout.json
+ create mode 100644 Form.Web.App/.vs/ProjectEvaluation/form.web.app.metadata.v9.bin
+ create mode 100644 Form.Web.App/.vs/ProjectEvaluation/form.web.app.projects.v9.bin
+ create mode 100644 Form.Web.App/.vs/ProjectEvaluation/form.web.app.strings.v9.bin
+ create mode 100644 Form.Web.App/Controllers/HomeController.cs
+ create mode 100644 Form.Web.App/Controllers/StudentController.cs
+ create mode 100644 Form.Web.App/Form.Web.App.csproj
+ create mode 100644 Form.Web.App/Form.Web.App.csproj.user
+ create mode 100644 Form.Web.App/Form.Web.App.sln
+ create mode 100644 Form.Web.App/Models/ErrorViewModel.cs
+ create mode 100644 Form.Web.App/Models/GetAllStudentsVm.cs
+ create mode 100644 Form.Web.App/Program.cs
+ create mode 100644 Form.Web.App/Properties/launchSettings.json
+ create mode 100644 Form.Web.App/Views/Home/Index.cshtml
+ create mode 100644 Form.Web.App/Views/Home/Privacy.cshtml
+ create mode 100644 Form.Web.App/Views/Shared/Error.cshtml
+ create mode 100644 Form.Web.App/Views/Shared/_Layout.cshtml
+ create mode 100644 Form.Web.App/Views/Shared/_Layout.cshtml.css
+ create mode 100644 Form.Web.App/Views/Shared/_ValidationScriptsPartial.cshtml
+ create mode 100644 Form.Web.App/Views/Student/CreateStudent.cshtml
+ create mode 100644 Form.Web.App/Views/Student/Edit.cshtml
+ create mode 100644 Form.Web.App/Views/Student/GetAllStudents.cshtml
+ create mode 100644 Form.Web.App/Views/Student/GetStudent.cshtml
+ create mode 100644 Form.Web.App/Views/_ViewImports.cshtml
+ create mode 100644 Form.Web.App/Views/_ViewStart.cshtml
+ create mode 100644 Form.Web.App/appsettings.Development.json
+ create mode 100644 Form.Web.App/appsettings.json
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Form.Web.App.deps.json
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Form.Web.App.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Form.Web.App.exe
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Form.Web.App.pdb
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Form.Web.App.runtimeconfig.json
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Form.Web.App.staticwebassets.endpoints.json
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Form.Web.App.staticwebassets.runtime.json
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Humanizer.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.Build.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Mono.TextTemplating.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Newtonsoft.Json.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/NuGet.Common.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/NuGet.Configuration.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/NuGet.Frameworks.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/NuGet.LibraryModel.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/NuGet.Packaging.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/NuGet.ProjectModel.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/NuGet.Protocol.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/NuGet.Versioning.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Shared.Space.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/Shared.Space.pdb
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/System.CodeDom.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/System.Composition.Convention.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/System.Composition.Hosting.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/System.Composition.Runtime.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/System.Composition.TypedParts.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/System.Drawing.Common.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/System.Security.Permissions.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/System.Windows.Extensions.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/af/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/appsettings.Development.json
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/appsettings.json
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ar/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/az/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/bg/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/cs/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/da/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/de/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/el/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/es/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/fa/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/fr/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/he/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/hr/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/hu/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/hy/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/id/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/is/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/it/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ja/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ku/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/lv/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/mt/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/nb/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/nl/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pl/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/pt/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ro/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ru/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/sk/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/sl/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/sr/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/sv/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/tr/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/uk/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/vi/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+ create mode 100644 Form.Web.App/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/ApiEndpoints.json
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.AssemblyInfo.cs
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.AssemblyInfoInputs.cache
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.GeneratedMSBuildEditorConfig.editorconfig
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.GlobalUsings.g.cs
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.MvcApplicationPartsAssemblyInfo.cache
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.RazorAssemblyInfo.cache
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.RazorAssemblyInfo.cs
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.assets.cache
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.csproj.AssemblyReference.cache
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.csproj.BuildWithSkipAnalyzers
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.csproj.CoreCompileInputs.cache
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.csproj.FileListAbsolute.txt
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.dll
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.genruntimeconfig.cache
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.App.pdb
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/Form.Web.EEEF8893.Up2Date
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/apphost.exe
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/ref/Form.Web.App.dll
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/refint/Form.Web.App.dll
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/scopedcss/bundle/Form.Web.App.styles.css
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/scopedcss/projectbundle/Form.Web.App.bundle.scp.css
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/staticwebassets.build.json
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/staticwebassets.development.json
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/staticwebassets.pack.json
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/staticwebassets.references.upToDateCheck.txt
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/staticwebassets.removed.txt
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/staticwebassets/msbuild.Form.Web.App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/staticwebassets/msbuild.Form.Web.App.Microsoft.AspNetCore.StaticWebAssets.props
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/staticwebassets/msbuild.build.Form.Web.App.props
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Form.Web.App.props
+ create mode 100644 Form.Web.App/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Form.Web.App.props
+ create mode 100644 Form.Web.App/obj/Form.Web.App.csproj.nuget.dgspec.json
+ create mode 100644 Form.Web.App/obj/Form.Web.App.csproj.nuget.g.props
+ create mode 100644 Form.Web.App/obj/Form.Web.App.csproj.nuget.g.targets
+ create mode 100644 Form.Web.App/obj/project.assets.json
+ create mode 100644 Form.Web.App/obj/project.nuget.cache
+ create mode 100644 Form.Web.App/wwwroot/css/site.css
+ create mode 100644 Form.Web.App/wwwroot/favicon.ico
+ create mode 100644 Form.Web.App/wwwroot/js/site.js
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/LICENSE
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.js
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js
+ create mode 100644 Form.Web.App/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map
+ create mode 100644 Form.Web.App/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt
+ create mode 100644 Form.Web.App/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js
+ create mode 100644 Form.Web.App/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js
+ create mode 100644 Form.Web.App/wwwroot/lib/jquery-validation/LICENSE.md
+ create mode 100644 Form.Web.App/wwwroot/lib/jquery-validation/dist/additional-methods.js
+ create mode 100644 Form.Web.App/wwwroot/lib/jquery-validation/dist/additional-methods.min.js
+ create mode 100644 Form.Web.App/wwwroot/lib/jquery-validation/dist/jquery.validate.js
+ create mode 100644 Form.Web.App/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js
+ create mode 100644 Form.Web.App/wwwroot/lib/jquery/LICENSE.txt
+ create mode 100644 Form.Web.App/wwwroot/lib/jquery/dist/jquery.js
+ create mode 100644 Form.Web.App/wwwroot/lib/jquery/dist/jquery.min.js
+ create mode 100644 Form.Web.App/wwwroot/lib/jquery/dist/jquery.min.map
+ create mode 100644 Shared.Space/Models/Response.cs
+ create mode 100644 Shared.Space/Models/Students/AddStudentDto.cs
+ create mode 100644 Shared.Space/Models/Students/Student.cs
+ create mode 100644 Shared.Space/Shared.Space.csproj
+ create mode 100644 Shared.Space/bin/Debug/net8.0/Shared.Space.deps.json
+ create mode 100644 Shared.Space/bin/Debug/net8.0/Shared.Space.dll
+ create mode 100644 Shared.Space/bin/Debug/net8.0/Shared.Space.pdb
+ create mode 100644 Shared.Space/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ create mode 100644 Shared.Space/obj/Debug/net8.0/Shared.Space.AssemblyInfo.cs
+ create mode 100644 Shared.Space/obj/Debug/net8.0/Shared.Space.AssemblyInfoInputs.cache
+ create mode 100644 Shared.Space/obj/Debug/net8.0/Shared.Space.GeneratedMSBuildEditorConfig.editorconfig
+ create mode 100644 Shared.Space/obj/Debug/net8.0/Shared.Space.GlobalUsings.g.cs
+ create mode 100644 Shared.Space/obj/Debug/net8.0/Shared.Space.assets.cache
+ create mode 100644 Shared.Space/obj/Debug/net8.0/Shared.Space.csproj.BuildWithSkipAnalyzers
+ create mode 100644 Shared.Space/obj/Debug/net8.0/Shared.Space.csproj.CoreCompileInputs.cache
+ create mode 100644 Shared.Space/obj/Debug/net8.0/Shared.Space.csproj.FileListAbsolute.txt
+ create mode 100644 Shared.Space/obj/Debug/net8.0/Shared.Space.dll
+ create mode 100644 Shared.Space/obj/Debug/net8.0/Shared.Space.pdb
+ create mode 100644 Shared.Space/obj/Debug/net8.0/ref/Shared.Space.dll
+ create mode 100644 Shared.Space/obj/Debug/net8.0/refint/Shared.Space.dll
+ create mode 100644 Shared.Space/obj/Shared.Space.csproj.nuget.dgspec.json
+ create mode 100644 Shared.Space/obj/Shared.Space.csproj.nuget.g.props
+ create mode 100644 Shared.Space/obj/Shared.Space.csproj.nuget.g.targets
+ create mode 100644 Shared.Space/obj/project.assets.json
+ create mode 100644 Shared.Space/obj/project.nuget.cache
+
+AHISHEK@DESKTOP-4QKH86R MINGW64 /d/dotnet/FormAdo (master)
+$ git push --set-upstream origin master
+Enumerating objects: 496, done.
+Counting objects: 100% (496/496), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (472/472), done.
+Writing objects: 100% (496/496), 15.83 MiB | 1.20 MiB/s, done.
+Total 496 (delta 182), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (182/182), done.
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/Abhishek-Amar-Singh/FormAdo/pull/new/master
+remote:
+To https://github.com/Abhishek-Amar-Singh/FormAdo.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+AHISHEK@DESKTOP-4QKH86R MINGW64 
