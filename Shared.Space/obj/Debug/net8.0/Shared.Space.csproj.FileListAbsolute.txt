@@ -1,0 +1,11 @@
+D:\dotnet\Form\Shared.Space\bin\Debug\net8.0\Shared.Space.deps.json
+D:\dotnet\Form\Shared.Space\bin\Debug\net8.0\Shared.Space.dll
+D:\dotnet\Form\Shared.Space\bin\Debug\net8.0\Shared.Space.pdb
+D:\dotnet\Form\Shared.Space\obj\Debug\net8.0\Shared.Space.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Form\Shared.Space\obj\Debug\net8.0\Shared.Space.AssemblyInfoInputs.cache
+D:\dotnet\Form\Shared.Space\obj\Debug\net8.0\Shared.Space.AssemblyInfo.cs
+D:\dotnet\Form\Shared.Space\obj\Debug\net8.0\Shared.Space.csproj.CoreCompileInputs.cache
+D:\dotnet\Form\Shared.Space\obj\Debug\net8.0\Shared.Space.dll
+D:\dotnet\Form\Shared.Space\obj\Debug\net8.0\refint\Shared.Space.dll
+D:\dotnet\Form\Shared.Space\obj\Debug\net8.0\Shared.Space.pdb
+D:\dotnet\Form\Shared.Space\obj\Debug\net8.0\ref\Shared.Space.dll
