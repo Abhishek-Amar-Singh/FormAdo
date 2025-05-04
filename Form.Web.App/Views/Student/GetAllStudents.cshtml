@@ -50,9 +50,9 @@
 					@Html.DisplayFor(modelItem => item.DOB)
 				</td>
 				<td>
-					@Html.ActionLink("Edit", "Edit", new {  id=item.Id }) |
+					@Html.ActionLink("Edit", "EditStudent", new { id = item.Id }) |
 					@Html.ActionLink("Details", "GetStudent", new { id = item.Id }) |
-					@Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+					@Html.ActionLink("Delete", "DeleteStudent", new { id = item.Id })
 				</td>
 			</tr>
 		}

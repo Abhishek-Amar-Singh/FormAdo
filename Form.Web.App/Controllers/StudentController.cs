@@ -2,6 +2,7 @@
 using System.Security.Policy;
 using System.Text.Json;
 using Form.Web.Api.Models.Students;
+using Humanizer;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Shared.Space.Models;
@@ -85,7 +86,7 @@ namespace Form.Web.App.Controllers
 
         // GET: StudentController/Edit/5
         [HttpGet]
-        public async Task<ActionResult> Edit(int id)
+        public async Task<ActionResult> EditStudent(int id)
         {
             using HttpClient http = new HttpClient()
             {
@@ -106,7 +107,7 @@ namespace Form.Web.App.Controllers
 
         // POST: StudentController/Edit/5
         [HttpPost]
-        public async Task<ActionResult> Edit(Student dto)
+        public async Task<ActionResult> EditStudent(Student dto)
         {
             using HttpClient http = new HttpClient()
             {
@@ -120,9 +121,16 @@ namespace Form.Web.App.Controllers
         }
 
         // GET: StudentController/Delete/5
-        public ActionResult Delete(int id)
+        public async Task<ActionResult> DeleteStudent(int id)
         {
-            return View();
+            using HttpClient http = new HttpClient()
+            {
+                BaseAddress = new Uri($"{baseUrl}")
+            };
+            var url = string.Format($"Students/DeleteStudentAsync?id={id}");
+            HttpResponseMessage response = await http.DeleteAsync(url);
+
+            return RedirectToAction("GetAllStudents");
         }
 
         // POST: StudentController/Delete/5

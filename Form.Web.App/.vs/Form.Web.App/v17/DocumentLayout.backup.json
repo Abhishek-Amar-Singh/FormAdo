@@ -1,39 +1,39 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\dotnet\\Form\\Form.Web.App\\",
+  "WorkspaceRootPath": "D:\\dotnet\\FormAdo\\Form.Web.App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|d:\\dotnet\\form\\form.web.app\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|d:\\dotnet\\formado\\form.web.app\\views\\student\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|solutionrelative:views\\student\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAA28D14-C22F-44D9-9CE6-C398B4CB8678}|..\\Form.Web.Api\\Form.Web.Api.csproj|d:\\dotnet\\form\\form.web.api\\services\\students\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAA28D14-C22F-44D9-9CE6-C398B4CB8678}|..\\Form.Web.Api\\Form.Web.Api.csproj|d:\\dotnet\\form\\form.web.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|d:\\dotnet\\form\\form.web.app\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|solutionrelative:views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|d:\\dotnet\\form\\form.web.app\\views\\student\\getstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|solutionrelative:views\\student\\getstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|d:\\dotnet\\form\\form.web.app\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|d:\\dotnet\\formado\\form.web.app\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|solutionrelative:views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|d:\\dotnet\\form\\form.web.app\\views\\student\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|solutionrelative:views\\student\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|d:\\dotnet\\formado\\form.web.app\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|d:\\dotnet\\form\\form.web.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|d:\\dotnet\\formado\\form.web.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02ADCA39-1FEA-444C-95BD-7B685CD48D7F}|..\\Shared.Space\\Shared.Space.csproj|d:\\dotnet\\form\\shared.space\\models\\students\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\Form\\Shared.Space\\Models\\Students\\AddStudentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\Form\\Form.Web.Api\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|d:\\dotnet\\formado\\form.web.app\\views\\student\\getstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|solutionrelative:views\\student\\getstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|d:\\dotnet\\formado\\form.web.app\\views\\student\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11249A98-26EA-4CCA-B74A-498DE65B920D}|Form.Web.App.csproj|solutionrelative:views\\student\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\Form\\Form.Web.Api\\Services\\Students\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,113 +46,111 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "GetStudent.cshtml",
-              "DocumentMoniker": "D:\\dotnet\\Form\\Form.Web.App\\Views\\Student\\GetStudent.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\FormAdo\\Form.Web.App\\Views\\Student\\GetStudent.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\GetStudent.cshtml",
-              "ToolTip": "D:\\dotnet\\Form\\Form.Web.App\\Views\\Student\\GetStudent.cshtml",
+              "ToolTip": "D:\\dotnet\\FormAdo\\Form.Web.App\\Views\\Student\\GetStudent.cshtml",
               "RelativeToolTip": "Views\\Student\\GetStudent.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T06:43:21.778Z"
+              "WhenOpened": "2025-05-03T06:43:21.778Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\dotnet\\Form\\Form.Web.App\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "D:\\dotnet\\FormAdo\\Form.Web.App\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "D:\\dotnet\\Form\\Form.Web.App\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\dotnet\\FormAdo\\Form.Web.App\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwF4AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAkwHoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T06:06:40.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\dotnet\\Form\\Form.Web.App\\Views\\Student\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Student\\Edit.cshtml",
-              "ToolTip": "D:\\dotnet\\Form\\Form.Web.App\\Views\\Student\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Student\\Edit.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EditStudent.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\FormAdo\\Form.Web.App\\Views\\Student\\EditStudent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\EditStudent.cshtml",
+              "ToolTip": "D:\\dotnet\\FormAdo\\Form.Web.App\\Views\\Student\\EditStudent.cshtml*",
+              "RelativeToolTip": "Views\\Student\\EditStudent.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T07:12:33.748Z"
+              "WhenOpened": "2025-05-03T07:12:33.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "D:\\dotnet\\Form\\Form.Web.Api\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "..\\Form.Web.Api\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Form\\Form.Web.Api\\Controllers\\StudentsController.cs",
               "ToolTip": "D:\\dotnet\\Form\\Form.Web.Api\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "..\\Form.Web.Api\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA3wBQAAAA7AAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\Form\\Form.Web.Api\\Controllers\\StudentsController.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T06:28:49.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "GetAllStudents.cshtml",
-              "DocumentMoniker": "D:\\dotnet\\Form\\Form.Web.App\\Views\\Student\\GetAllStudents.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\FormAdo\\Form.Web.App\\Views\\Student\\GetAllStudents.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\GetAllStudents.cshtml",
-              "ToolTip": "D:\\dotnet\\Form\\Form.Web.App\\Views\\Student\\GetAllStudents.cshtml",
+              "ToolTip": "D:\\dotnet\\FormAdo\\Form.Web.App\\Views\\Student\\GetAllStudents.cshtml",
               "RelativeToolTip": "Views\\Student\\GetAllStudents.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADQAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T06:27:19.225Z"
+              "WhenOpened": "2025-05-03T06:27:19.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\dotnet\\Form\\Form.Web.App\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\FormAdo\\Form.Web.App\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\dotnet\\Form\\Form.Web.App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\dotnet\\FormAdo\\Form.Web.App\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T06:18:07.384Z"
+              "WhenOpened": "2025-05-03T06:18:07.384Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "AddStudentDto.cs",
               "DocumentMoniker": "D:\\dotnet\\Form\\Shared.Space\\Models\\Students\\AddStudentDto.cs",
-              "RelativeDocumentMoniker": "..\\Shared.Space\\Models\\Students\\AddStudentDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\Form\\Shared.Space\\Models\\Students\\AddStudentDto.cs",
               "ToolTip": "D:\\dotnet\\Form\\Shared.Space\\Models\\Students\\AddStudentDto.cs",
-              "RelativeToolTip": "..\\Shared.Space\\Models\\Students\\AddStudentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\Form\\Shared.Space\\Models\\Students\\AddStudentDto.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T06:08:26.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "StudentService.cs",
               "DocumentMoniker": "D:\\dotnet\\Form\\Form.Web.Api\\Services\\Students\\StudentService.cs",
-              "RelativeDocumentMoniker": "..\\Form.Web.Api\\Services\\Students\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Form\\Form.Web.Api\\Services\\Students\\StudentService.cs",
               "ToolTip": "D:\\dotnet\\Form\\Form.Web.Api\\Services\\Students\\StudentService.cs",
-              "RelativeToolTip": "..\\Form.Web.Api\\Services\\Students\\StudentService.cs",
+              "RelativeToolTip": "..\\..\\Form\\Form.Web.Api\\Services\\Students\\StudentService.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAQwAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T06:32:47.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CreateStudent.cshtml",
-              "DocumentMoniker": "D:\\dotnet\\Form\\Form.Web.App\\Views\\Student\\CreateStudent.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\FormAdo\\Form.Web.App\\Views\\Student\\CreateStudent.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\CreateStudent.cshtml",
-              "ToolTip": "D:\\dotnet\\Form\\Form.Web.App\\Views\\Student\\CreateStudent.cshtml",
+              "ToolTip": "D:\\dotnet\\FormAdo\\Form.Web.App\\Views\\Student\\CreateStudent.cshtml",
               "RelativeToolTip": "Views\\Student\\CreateStudent.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

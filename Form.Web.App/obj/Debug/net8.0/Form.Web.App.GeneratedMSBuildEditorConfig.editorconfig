@@ -17,57 +17,57 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Form.Web.App
 build_property.RootNamespace = Form.Web.App
-build_property.ProjectDir = D:\dotnet\Form\Form.Web.App\
+build_property.ProjectDir = D:\dotnet\FormAdo\Form.Web.App\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\dotnet\Form\Form.Web.App
+build_property.MSBuildProjectDirectory = D:\dotnet\FormAdo\Form.Web.App
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/dotnet/Form/Form.Web.App/Views/Home/Index.cshtml]
+[D:/dotnet/FormAdo/Form.Web.App/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/Form/Form.Web.App/Views/Home/Privacy.cshtml]
+[D:/dotnet/FormAdo/Form.Web.App/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/Form/Form.Web.App/Views/Shared/Error.cshtml]
+[D:/dotnet/FormAdo/Form.Web.App/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/Form/Form.Web.App/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/dotnet/FormAdo/Form.Web.App/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/Form/Form.Web.App/Views/Student/CreateStudent.cshtml]
+[D:/dotnet/FormAdo/Form.Web.App/Views/Student/CreateStudent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGVTdHVkZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/Form/Form.Web.App/Views/Student/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+[D:/dotnet/FormAdo/Form.Web.App/Views/Student/EditStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0U3R1ZGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/Form/Form.Web.App/Views/Student/GetAllStudents.cshtml]
+[D:/dotnet/FormAdo/Form.Web.App/Views/Student/GetAllStudents.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxHZXRBbGxTdHVkZW50cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/Form/Form.Web.App/Views/Student/GetStudent.cshtml]
+[D:/dotnet/FormAdo/Form.Web.App/Views/Student/GetStudent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxHZXRTdHVkZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/Form/Form.Web.App/Views/_ViewImports.cshtml]
+[D:/dotnet/FormAdo/Form.Web.App/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/Form/Form.Web.App/Views/_ViewStart.cshtml]
+[D:/dotnet/FormAdo/Form.Web.App/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/dotnet/Form/Form.Web.App/Views/Shared/_Layout.cshtml]
+[D:/dotnet/FormAdo/Form.Web.App/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4rjp5cpeo2

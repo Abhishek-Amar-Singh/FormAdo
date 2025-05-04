@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\Form\\Shared.Space\\Shared.Space.csproj",
+      "projectUniqueName": "D:\\dotnet\\FormAdo\\Shared.Space\\Shared.Space.csproj",
       "projectName": "Shared.Space",
-      "projectPath": "D:\\dotnet\\Form\\Shared.Space\\Shared.Space.csproj",
+      "projectPath": "D:\\dotnet\\FormAdo\\Shared.Space\\Shared.Space.csproj",
       "packagesPath": "C:\\Users\\AHISHEK\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\Form\\Shared.Space\\obj\\",
+      "outputPath": "D:\\dotnet\\FormAdo\\Shared.Space\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

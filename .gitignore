@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Build results
+Form.Web.Api/bin/
+Form.Web.Api/obj/
+Form.Web.App/bin/
+Form.Web.App/obj/
+
+# Visual Studio
+Form.Web.Api/.vs/
+Form.Web.App/.vs/
